@@ -1,1 +1,1 @@
-https://github.com/SergeChurkin-ca/instagram_clone_simplified/blob/master/instagram_schema.png
+![image description] (https://github.com/SergeChurkin-ca/instagram_clone_simplified/blob/master/instagram_schema.png)
